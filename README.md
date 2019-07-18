@@ -7,13 +7,13 @@
 # What is OmniCut?
  
  OmniCut is an app created with barbers and their clientele in mind. It is a platform created to help expedite the barber and client interaction by streamlining the appointment process. This is accomplished by having the client choose the time and place while the barber handles the rest. Compared to traditional barbershops, the barber can retain a higher percentage of their take home profit. Additionally, the client never has to go out of their way to visit a barbershop hoping that their favorite barber is in house that day.
-  #
+#
 
   
 
 # OmniCut Code
 This is a MERN stack so it MongoDB, Express, React and Node.js
-  #  
+#  
 
 # OmniCut Developer Team
 
