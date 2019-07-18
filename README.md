@@ -51,7 +51,7 @@ Portfolio: [daniel-bauer.net](https://danmbau.github.io/portfolio-b/)
 
 ## Jason Poblador
 ![]([https://github.com/DanMBau/omnicut/blob/master/images/JR%20headshot.jpg]s=100)
-<img src="https://github.com/DanMBau/omnicut/blob/master/images/JR%20headshot.jpg" width="100" height="100">
+
 In 2018 I graduated from the University of Delaware with a BS in Finance. During my time at UD I studied a large range of business topics including Fixed Income Securities, Information Systems, Strategic Management, Business Intelligence and Analytics, Capital Markets, Financial Investments, and International Finance.
   
 These classes gave me exposure to programs like MS SQL Server, JavaScript, Capsim, Powerpoint, Excel, Word, and Access. All this time spent on the computer sparked my interest in how programs run and the design process involved when creating them. As result I used this past summer to teach myself how to code and decided this was a passion worth pursuing. Today I am currently enrolled at the Penn LPS Coding bootcamp in Philadelphia with the hopes of becoming a Fullstack Developer.
@@ -63,7 +63,7 @@ Portfolio: [https://jasonpob.github.io/Fullstack-Portfolio/](https://jasonpob.gi
 <br>
 
 ## Joseph Ricafort
-![]([https://github.com/DanMBau/omnicut/blob/master/images/JR%20headshot.jpg]s=100)
+
 <img src="https://github.com/DanMBau/omnicut/blob/master/images/JR%20headshot.jpg" width="100" height="100">
 I am a Junior Full Stack Web Developer with an IT background and experience.
 
